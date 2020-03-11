@@ -1,4 +1,4 @@
-# BML_projectPractical Bayesian Optimization of Machine Learning Algorithms
+# BML Project: Practical Bayesian Optimization of Machine Learning Algorithms
 
 This project is an implementation of the following paper : *Practical Bayesian Optimization of Machine Learning Algorithms* by J. Snoek, H. Larochelle & R.P. Adams
 
